@@ -40,7 +40,7 @@ To use the Flutter Calculator App, follow these simple steps:
 
 ## Screenshots
 
-![Calculator App Screenshot]([screenshots/calculator_app.png](https://drive.google.com/drive/folders/1fK4aG7HJsEnBHJLbEmArWd4PrJyYwyfJ?usp=sharing))
+![Calculator App Screenshot]([(https://drive.google.com/drive/folders/1fK4aG7HJsEnBHJLbEmArWd4PrJyYwyfJ?usp=sharing)])
 
 ## Contributing
 
